@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="./css/stylos.css">
 </head>
 <h1>hola arbolito mas</h1>
+<h1>hola arbolito mas</h1>
+<h1>hola arbolito mas</h1>
 <body>
     <div id="container">
 
